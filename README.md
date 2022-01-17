@@ -21,7 +21,7 @@ Each text pair was annotated in parallel by five annotators working independentl
 The [STSAnno](https://vukbatanovic.github.io/STSAnno/) tool was used in the annotation process.
 
 In addition to score definitions, the annotators were provided with three examples for each similarity score and text pair length.
-The annotation guidelines (with examples) are available in original [Serbian](https://vukbatanovic.github.io/CLSS.news.sr/blob/main/Annotation%20guidelines%20-%20Serbian.pdf) and in [English](https://vukbatanovic.github.io/CLSS.news.sr/blob/main/Annotation%20guidelines%20-%20English.pdf) translation.
+The annotation guidelines (with examples) are available in original [Serbian](http://github.com/vukbatanovic/CLSS.news.sr/blob/main/Annotation%20guidelines%20-%20Serbian.pdf) and in [English](http://github.com/vukbatanovic/CLSS.news.sr/blob/main/Annotation%20guidelines%20-%20English.pdf) translation.
 
 The final semantic similarity scores for each sentence pair were obtained by averaging the scores of individual annotators.
 
@@ -58,7 +58,7 @@ The distribution of text pairs across the range of similarity scores, including 
 TBA
 
 ## Acknowledgement
-CLSS.news.sr was created as part of the project *[Advancing Novel Textual Similarity-based Solutions in Software Development ñ AVANTES](http://avantes.etf.bg.ac.rs/index-eng.html)*, supported by the [Science Fund of the Republic of Serbia](http://fondzanauku.gov.rs/?lang=en), grant no. 6526093, AI-AVANTES, within the ìProgram for Development of Projects in the field of Artificial Intelligenceî.
+CLSS.news.sr was created as part of the project *[Advancing Novel Textual Similarity-based Solutions in Software Development ‚Äì AVANTES](http://avantes.etf.bg.ac.rs/index-eng.html)*, supported by the [Science Fund of the Republic of Serbia](http://fondzanauku.gov.rs/?lang=en), grant no. 6526093, AI-AVANTES, within the ‚ÄúProgram for Development of Projects in the field of Artificial Intelligence‚Äù.
 
 ## License
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
