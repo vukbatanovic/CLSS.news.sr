@@ -55,7 +55,9 @@ The average semantic similarity score value is 1.96 for the phrase-sentence pair
 The distribution of text pairs across the range of similarity scores, including intermediate values, is fairly balanced.
 
 ## References
-TBA
+If you wish to use the Serbian CLSS News Corpus in your paper or project, please cite:
+
+**[Cross-Level Semantic Similarity for Serbian Newswire Texts](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.180.pdf)**, Vuk Batanović, Maja Miličević Petrović, in Proceedings of the 13th International Conference on Language Resources and Evaluation (LREC 2022), pp. 1691-1699, Marseille, France (2022).
 
 ## Acknowledgement
 CLSS.news.sr was created as part of the project *[Advancing Novel Textual Similarity-based Solutions in Software Development – AVANTES](http://avantes.etf.bg.ac.rs/index-eng.html)*, supported by the [Science Fund of the Republic of Serbia](http://fondzanauku.gov.rs/?lang=en), grant no. 6526093, AI-AVANTES, within the “Program for Development of Projects in the field of Artificial Intelligence”.
